@@ -13,7 +13,7 @@ Ao final dessas 4 partes o resultado deverá ser um exemplo de site totalmente f
 
 ![preview](./.github/preview.png)
 
-[🔗 Click aqui para acessar](https://edysilva27.github.io/NLW/)
+[🔗 Click aqui para acessar](https://edysilva27.github.io/barbearia-alura/)
 
 ## Etapas
 
